@@ -12,7 +12,6 @@ Bu bot, Discord DM üzerinden gönderilen Türkçe mesajları İngilizce'ye çev
 - [Discord Bot Oluşturma](#discord-bot-oluşturma)
 - [DeepL API Anahtarı Alma](#deepl-api-anahtarı-alma)
 - [Kurulum](#kurulum)
-- [GitHub'a Yükleme](#githuba-yükleme)
 - [Kullanım](#kullanım)
 - [Sorun Giderme](#sorun-giderme)
 - [Katkıda Bulunma](#katkıda-bulunma)
