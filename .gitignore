@@ -1,0 +1,51 @@
+# Node.js bağımlılıkları
+node_modules/
+package-lock.json
+
+# Çevre değişkenleri ve gizli bilgiler
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log dosyaları
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Çalışma zamanı verisi
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.project
+.classpath
+.settings/
+
+# Coverage çıktıları
+coverage/
+.nyc_output
+
+# Derleme çıktıları
+dist/
+build/
+out/
+
+# Geçici dosyalar
+tmp/
+temp/
+
+# Debug dosyaları
+.node_repl_history
+.npm
+
+# Local deployment dosyaları
+deploy/
