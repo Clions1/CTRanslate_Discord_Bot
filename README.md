@@ -135,7 +135,7 @@ Katkılarınızı bekliyoruz! Lütfen:
 
 ## 📧 İletişim
 
-Sorularınız için: [Email gönder](mailto:clionjob@gmail.com)
+Sorularınız için: [Email gönder](mailto:clionsjob@gmail.com)
 
 ## 📄 Lisans
 
